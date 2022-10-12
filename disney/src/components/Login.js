@@ -80,7 +80,7 @@ const SignUp = styled.a`
 font-weight: bold;
 color: #f9f9f9;
 
-background-color: #6CB4EE;
+background-color: #B2FFFF;
 
 
 margin-bottom: 12px;
