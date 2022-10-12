@@ -86,7 +86,7 @@ background-color: #89CFF0;
 margin-bottom: 12px;
 width: 100%;
 letter-spacing: 1.5px;
-font-size: 18px;
+font-size: 20px;
 padding: 16.5px 0;
 border: 1px solid transparent;
 border-radius: 4px;
