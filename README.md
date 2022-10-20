@@ -1,5 +1,5 @@
 # Disneyplus-clone
-Tech Stack:
+Tech Stack:-
 <br>
 Frontend: Reactjs
 <br>
